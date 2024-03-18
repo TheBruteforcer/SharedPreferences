@@ -73,7 +73,9 @@ preference.DeleteKey('Username')
 prefrence.PrefrencesList()
 
 ```
+
 <br>
+
 ```shell
 
 ['my_new_pref']
