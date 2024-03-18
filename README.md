@@ -20,7 +20,7 @@ prefrence = SharedPrefrences(Name = 'my_new_pref', Developer_mode = True)
 prefrence.AddKeyWithValue('UserName', 'OmarEllaban')
 ```
 
-```bash
+```
 python PS C:\Users\max\Desktop\MyWorkplace\main.py
 log raise - >
  added key UserName with value OmarEllaban to preference test1,
