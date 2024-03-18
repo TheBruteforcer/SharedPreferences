@@ -44,7 +44,7 @@ prference.EditKeyValue('UserName', 'OmarMohamed')
 
 ```
 
-<li> Retivre value from a key. </li>
+<li> Retrieve value from a key. </li>
 
 ```python
 
@@ -66,3 +66,35 @@ Output:
 preference = DeleteKey('Username')
 
 ```
+
+# Why you must use SharedPreferences module.?
+Because of,
+<li>Stability and efficiency </li>
+
+<li>Store data for using in any application either if it written in C# or C++ or any programming language</li>
+
+<li>You will not use importing your python scripts anymore</li>
+
+<li>To prevent complexity in your scripts</li>
+
+<li>Dealing with any programming language script or any application</li>
+
+<li> It transfers Android and mobile application to computer applications development with python.</li>
+
+<li> It's already an invention ! </li>
+
+# Credits
+This script is fully programmed by Omar Ellaban.
+MIT license.
+
+# Mechanism
+
+```python
+
+# I will write it soon 
+
+```
+
+# Some hints
+
+<li>You should use developer mode in first usage.</li>
