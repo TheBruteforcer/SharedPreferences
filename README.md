@@ -1,4 +1,4 @@
 # SharedPreferences
  Data sharing between python files without importing, or saving data for later usage without .yaml or any configration files
 # Usage
-<i>Download SharedPrefernces.py file</i>
+<li>Download SharedPrefernces.py file</li>
