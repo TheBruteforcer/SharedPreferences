@@ -12,6 +12,8 @@ from SharedPrefernces import *
 
 <li> Create your first shared preferences component .</li>
 
+<br>
+
 ```python
 
 prefrence = SharedPrefrences(Name = 'my_new_pref', Developer_mode = True) 
@@ -19,6 +21,8 @@ prefrence = SharedPrefrences(Name = 'my_new_pref', Developer_mode = True)
 ```
 
 <li> Add your data .</li>
+
+<br>
 
 ```python
 
@@ -38,6 +42,8 @@ log raise - >
 
 <li> Edit a key. </li>
 
+<br>
+
 ```python
 
 prference.EditKeyValue('UserName', 'OmarMohamed')
@@ -45,6 +51,8 @@ prference.EditKeyValue('UserName', 'OmarMohamed')
 ```
 
 <li> Retrieve value from a key. </li>
+
+<br>
 
 ```python
 
@@ -61,6 +69,8 @@ Output:
 
 <li> Delete a key. </li>
 
+<br>
+
 ```python
 
 preference.DeleteKey('Username')
@@ -68,13 +78,13 @@ preference.DeleteKey('Username')
 ```
 <li> List all shared prefrences in your workplace. </li>
 
+<br>
+
 ```python
 
 prefrence.PrefrencesList()
 
 ```
-
-<br>
 
 ```shell
 
