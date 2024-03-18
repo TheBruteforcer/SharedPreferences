@@ -3,5 +3,4 @@
 # Usage
 <li>Download SharedPrefernces.py file</li>
 <li>Import SharedPrefernces</li>
-```python
-from SharedPrefernces import *
+```python from SharedPrefernces import * ```
