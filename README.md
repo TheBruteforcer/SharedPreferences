@@ -70,9 +70,13 @@ preference = DeleteKey('Username')
 # Why you must use SharedPreferences module.?
 Because of,
 <li>Stability and efficiency </li>
+
 <li>Store data for using in any application either if it written in C# or C++ or any programming language</li>
+
 <li>You will not use importing your python scripts anymore</li>
-<li>To prevent complexity in your scripts<_li>
+
+<li>To prevent complexity in your scripts</li>
+
 <li>Dealing with any programming language script or any application</li>
 
 # Credits
