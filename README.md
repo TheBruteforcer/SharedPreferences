@@ -79,6 +79,7 @@ prefrence.PrefrencesList()
 ['my_new_pref']
 
 ```
+
 # Why you must use SharedPreferences module.?
 Because of,
 <li>Stability and efficiency </li>
