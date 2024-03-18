@@ -8,3 +8,14 @@
 from SharedPrefernces import *
 ```
 
+<li> Create your first shared preferences component .</li>
+
+```python
+prefrence = SharedPrefrences(Name = 'my_new_pref', Developer_mode = True) 
+```
+
+<li> Add your data .</li>
+
+```python
+prefrence.AddKeyWithValue('UserName', 'OmarEllaban')
+```
