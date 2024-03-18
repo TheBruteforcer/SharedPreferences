@@ -82,6 +82,7 @@ Because of,
 <li> It transfers Android and mobile application to computer applications development with python.</li>
 
 <li> It's already an invention ! </li>
+
 # Credits
 This script is fully programmed by Omar Ellaban.
 MIT license.
