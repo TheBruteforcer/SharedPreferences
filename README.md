@@ -3,6 +3,9 @@
 # Usage
 <li>Download SharedPrefernces.py file</li>
 <li>Import SharedPrefernces</li>
-<code>python
-from SharedPrefernces import *
-</code>
+```javascript
+function hello() { 
+    console.log('hello world !'); 
+} 
+```
+
