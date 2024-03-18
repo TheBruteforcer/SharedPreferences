@@ -5,4 +5,3 @@
 <li>Import SharedPrefernces</li>
 ```python
 from SharedPrefernces import *
-```
