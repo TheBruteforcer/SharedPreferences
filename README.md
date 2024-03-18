@@ -4,7 +4,5 @@
 <li>Download SharedPrefernces.py file</li>
 <li>Import SharedPrefernces</li>
 <code>python
-
 from SharedPrefernces import *
-
 </code>
