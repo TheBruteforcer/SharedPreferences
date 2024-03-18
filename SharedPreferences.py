@@ -44,13 +44,21 @@ class SharedPrefrences():
                     return val
                 else:
                     raise 'Key not found.'
-    def Cache(self):
-        pass # Soon.
-
-
-
-
-
-
+    def PrecrencesList(self):
+        current = None
+        listo = []
+        for x in os.listdir(self.dir):
+            c = x.split('.')[0]
+            if current == c:
+                pass
+            else:
+                current = c
+                listo.append(c)
+        return listo
+    def RemovePrefrence(self, Name):
+        for s in os.listdir(self.dir):
+            if Name in s:
+                os.remove(self.dir+'/'+s)
+    
 
 
