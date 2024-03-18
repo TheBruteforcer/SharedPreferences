@@ -19,3 +19,11 @@ prefrence = SharedPrefrences(Name = 'my_new_pref', Developer_mode = True)
 ```python
 prefrence.AddKeyWithValue('UserName', 'OmarEllaban')
 ```
+
+```bash
+python PS C:\Users\max\Desktop\MyWorkplace\main.py
+log raise - >
+ added key UserName with value OmarEllaban to preference test1,
+ Preferences files in C:/main : ['my_new_pref.dat', 'my_new_pref.dir'],
+ Current data in test1 => {'UserName': 'OmarEllaban'}
+```
