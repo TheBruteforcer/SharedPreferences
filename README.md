@@ -75,6 +75,10 @@ Because of,
 <li>To prevent complexity in your scripts<_li>
 <li>Dealing with any programming language script or any application</li>
 
+# Credits
+This script is fully programmed by Omar Ellaban.
+MIT license.
+
 # Mechanism
 
 ```python
@@ -82,3 +86,7 @@ Because of,
 # I will write it soon 
 
 ```
+
+# Some hints
+
+<li>You should use developer mode in first usage.</li>
