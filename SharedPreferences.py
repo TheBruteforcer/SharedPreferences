@@ -44,7 +44,7 @@ class SharedPrefrences():
                     return val
                 else:
                     raise 'Key not found.'
-    def PrecrencesList(self):
+    def PrefrencesList(self):
         current = None
         listo = []
         for x in os.listdir(self.dir):

@@ -63,10 +63,22 @@ Output:
 
 ```python
 
-preference = DeleteKey('Username')
+preference.DeleteKey('Username')
 
 ```
+<li> List all shared prefrences in your workplace. </li>
 
+```python
+
+prefrence.PrefrencesList()
+
+```
+<br>
+```shell
+
+['my_new_pref']
+
+```
 # Why you must use SharedPreferences module.?
 Because of,
 <li>Stability and efficiency </li>
