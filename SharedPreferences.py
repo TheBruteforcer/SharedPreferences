@@ -44,6 +44,8 @@ class SharedPrefrences():
                     return val
                 else:
                     raise 'Key not found.'
+    def Cache(self):
+        pass # Soon.
 
 
 
