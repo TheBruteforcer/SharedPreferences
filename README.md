@@ -3,6 +3,8 @@
 # Usage
 <li>Download SharedPrefernces.py file</li>
 <li>Import SharedPrefernces</li>
-<code>
+<code>python
+
 from SharedPrefernces import *
+
 </code>
