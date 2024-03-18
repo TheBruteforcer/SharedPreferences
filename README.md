@@ -3,9 +3,8 @@
 # Usage
 <li>Download SharedPrefernces.py file</li>
 <li>Import SharedPrefernces</li>
-```javascript
-function hello() { 
-    console.log('hello world !'); 
-} 
+
+```python
+from SharedPrefernces import *
 ```
 
