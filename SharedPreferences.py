@@ -36,7 +36,7 @@ class SharedPrefrences():
                     raise "Key doesn't exists."
         else:
             raise f'Preference {self.Name} is not found in {dir}.'
-    def RetirveValue(self, key):
+    def RetrieveValue(self, key):
         if f'{self.Name}.dat' in os.listdir(self.dir):
             with shelve.open(self.dir+'/'+self.Name) as pref:
                 val = pref[key] if pref[key] in dict(pref) else None
